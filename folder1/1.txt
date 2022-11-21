@@ -1,4 +1,3 @@
 Pierwsza linia
 druga linia
 trzecia linia
-zmiana w visual
