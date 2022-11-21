@@ -1,3 +1,4 @@
 Pierwsza linia
 druga linia
 trzecia linia
+czwarta z visual
